@@ -4,6 +4,36 @@ RPCMod is a Terraria mod that adds rich presence functionality to the game, allo
 
 ---
 
+## 🖼️ Preview
+
+<h3>Vanilla</h3>
+
+<table>
+  <tr>
+    <td><img src="images/vanilla-main.jpg" alt="Vanilla Main Menu" width="400"/></td>
+    <td><img src="images/vanilla-event.jpg" alt="Vanilla Event" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/vanilla-ingame.jpg" alt="Vanilla In-Game" width="400"/></td>
+    <td><img src="images/vanilla-boss.jpg" alt="Vanilla Boss" width="400"/></td>
+  </tr>
+</table>
+
+<h3>Calamity Mod </h3>
+
+<table>
+  <tr>
+    <td><img src="images/calamity-main.jpg" alt="Calamity Main Menu" width="400"/></td>
+    <td><img src="images/calamity-event.jpg" alt="Calamity Event" width="400"/></td>
+  </tr>
+  <tr>
+    <td><img src="images/calamity-biome.jpg" alt="Calamity Biome" width="400"/></td>
+    <td><img src="images/calamity-boss.jpg" alt="Calamity Boss" width="400"/></td>
+  </tr>
+</table>
+
+---
+
 ### 🎮 Features
 - Boss Tracker  
 - Biome Tracker  

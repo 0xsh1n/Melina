@@ -1,3 +1,7 @@
+<p align="center">
+<img src="images/kermit.png", width="300", height="300">
+</p>
+
 # Melina
 
 RPCMod is a Terraria mod that adds rich presence functionality to the game, allowing players to showcase their in-game status on Discord.

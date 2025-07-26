@@ -59,7 +59,7 @@ RPCMod is a Terraria mod that adds rich presence functionality to the game, allo
 
 ## 🛠 Installation
 
-1. Download the latest release from the [Releases page](https://github.com/0xsh1n/Melina/releases)  
+1. Download the latest release from the [Releases page](https://github.com/124dev/Melina/releases)  
 2. Place the `.tmod` file in your `Terraria/ModLoader/Mods` folder  
 3. Launch Terraria with tModLoader enabled  
 4. Enable the mod in the Mods menu  

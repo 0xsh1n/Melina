@@ -1,0 +1,5 @@
+displayName = Melina
+author = 124.dev
+version = 1.0
+homepage = https://github.com/124dev/Melina
+hideCode = false

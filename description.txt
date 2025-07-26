@@ -1,0 +1,18 @@
+RPCMod is a Terraria mod that adds rich presence functionality to the game, allowing players to showcase their in-game status on Discord.
+
+Features:
+- Boss Tracker
+- Biome Tracker
+- Events Tracker
+- World Name / Difficulty Display
+
+Supported Mods
+- Calamity Mod
+  + Biomes: Sulphuric Sea, The Abyss, The Sunken Sea, Brimstone & Astral Infection
+  + Bosses: All Bosses
+  + Events: Boss Rush, Acid Rain
+
+Planned Supported Mods
+- Thorium Mod
+- Fargo's Mod
+- Starlight River Mod

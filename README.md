@@ -56,7 +56,7 @@ RPCMod is a Terraria mod that adds rich presence functionality to the game, allo
 
 ### 🔮 Planned Supported Mods
 - Thorium Mod  
-- Fargo's Mod  
+- Infernum Mod  
 - Starlight River Mod  
 
 ---
